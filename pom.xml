@@ -28,14 +28,14 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
     <repository>
-       <id>deployment</id>
-       <name>Internal Releases</name>
-       <url>http://localhost:8081/repository/sample/</url>
+      <id>deployment</id>
+      <name>Internal Releases</name>
+      <url>http://localhost:8081/repository/sample/</url>
      </repository>
      <snapshotRepository>
-        <id>deployment</id>
-        <name>Internal Snapshot Releases</name>
-        <url>http://localhost:8081/repository/samplesnap/</url>
+       <id>deployment</id>
+       <name>Internal Snapshot Releases</name>
+       <url>http://localhost:8081/repository/samplesnap/</url>
       </snapshotRepository>
            
   </distributionManagement>
