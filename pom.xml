@@ -33,7 +33,7 @@
       <url>http://localhost:8081/repository/sample/</url>
      </repository>
      <snapshotRepository>
-       <id>deployment</id>
+       <id>deployment</id
        <name>Internal Snapshot Releases</name>
        <url>http://localhost:8081/repository/samplesnap/</url>
       </snapshotRepository>
