@@ -25,7 +25,7 @@
       </plugin>
     </plugins>
   </build>
-  <distributionmanagement>      
+  <distributionManagement>      
    <repository>
      <id>deployment</id>
      <name>Internal Releases</name>
@@ -36,7 +36,7 @@
      <name>Internal Snapshot Releases</name>
      <url>http://localhost:8081/repository/samplesnap/</url>
    </snapshotRepository>
-  </distributionmanagement>
+  </distributionManagement>
   <dependencies>
 
     <dependency>
